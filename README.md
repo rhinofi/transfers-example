@@ -12,7 +12,7 @@ Copy the `config_example.json` file to `config.json` and populate it with valid 
 
 example output:
 
-```json
+```sh
 {
   items: [
     {
