@@ -1,0 +1,12 @@
+{
+  "INFURA_PROJECT_ID": "projectId",
+  "ETH_PRIVATE_KEY": "your eth private key",
+  "STARK_PRIVATE_KEY": "your stark private key",
+  "API_URL": "https://api.deversifi.dev",
+  "DATA_API_URL": "https://api.deversifi.dev",
+  "account": {
+    "address": "eth public key",
+    "privateKey": "stark public key"
+  },
+  "RPC_URL": "http url to an RPC provider"
+}

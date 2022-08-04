@@ -1,0 +1,16 @@
+{
+  "name": "imx-transfer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RhinoFi",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.13",
+    "dvf-client-js": "https://github.com/DeversiFi/dvf-client-js#afa77b7215e4bbc148d1e31e21fdd31cfd45adda",
+    "web3": "^1.7.5"
+  }
+}
